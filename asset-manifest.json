@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.85e21323.chunk.css",
-    "main.js": "/static/js/main.1fece2ee.chunk.js",
-    "main.js.map": "/static/js/main.1fece2ee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.045b4f9d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.045b4f9d.js.map",
-    "static/js/2.f3f3250c.chunk.js": "/static/js/2.f3f3250c.chunk.js",
-    "static/js/2.f3f3250c.chunk.js.map": "/static/js/2.f3f3250c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.85e21323.chunk.css.map": "/static/css/main.85e21323.chunk.css.map",
-    "static/js/2.f3f3250c.chunk.js.LICENSE.txt": "/static/js/2.f3f3250c.chunk.js.LICENSE.txt"
+    "main.css": "/WarzoneApp/static/css/main.85e21323.chunk.css",
+    "main.js": "/WarzoneApp/static/js/main.1fece2ee.chunk.js",
+    "main.js.map": "/WarzoneApp/static/js/main.1fece2ee.chunk.js.map",
+    "runtime-main.js": "/WarzoneApp/static/js/runtime-main.dfe770ac.js",
+    "runtime-main.js.map": "/WarzoneApp/static/js/runtime-main.dfe770ac.js.map",
+    "static/js/2.f3f3250c.chunk.js": "/WarzoneApp/static/js/2.f3f3250c.chunk.js",
+    "static/js/2.f3f3250c.chunk.js.map": "/WarzoneApp/static/js/2.f3f3250c.chunk.js.map",
+    "index.html": "/WarzoneApp/index.html",
+    "static/css/main.85e21323.chunk.css.map": "/WarzoneApp/static/css/main.85e21323.chunk.css.map",
+    "static/js/2.f3f3250c.chunk.js.LICENSE.txt": "/WarzoneApp/static/js/2.f3f3250c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.045b4f9d.js",
+    "static/js/runtime-main.dfe770ac.js",
     "static/js/2.f3f3250c.chunk.js",
     "static/css/main.85e21323.chunk.css",
     "static/js/main.1fece2ee.chunk.js"
