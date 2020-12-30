@@ -11,6 +11,21 @@ a {
   text-decoration: none;
 }
 
+.Home {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home a {
+  font-size: 5rem;
+  padding: 1rem;
+  color: white;
+  border: 2px white solid;
+  border-radius: 2rem;
+}
+
 .Numeros,
 .Imagenes {
   height: 100vh;

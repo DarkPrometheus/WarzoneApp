@@ -10,6 +10,7 @@ import React from 'react'
 import { Component } from 'react';
 import Ubicacion from './components/ubicacion';
 import { CodigoFinal } from './components/CodigoFinal';
+import { HomePage } from './components/HomePage';
 
 class App extends Component {
   constructor(props) {
@@ -128,6 +129,7 @@ class App extends Component {
           <Route exact path={"/numeros"} component={props => <Numeros SetDatos={this.SetDatos} />} />
           <Route exact path={"/ubicaciones"} component={props => <Ubicacion SetDatos={this.SetDatos} />} />
           <Route exact path={"/Codigo"} component={props => <CodigoFinal SetDatos={this.SetDatos} />} />
+          <Route exact path={"/"} component={HomePage} />
         </Switch>
       </Router>
     );
