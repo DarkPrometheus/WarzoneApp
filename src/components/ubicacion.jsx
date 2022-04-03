@@ -6,7 +6,6 @@ import Imagenes from './imagenes';
 class Ubicacion extends React.Component {
     constructor(props) {
         super(props);
-        this.fn = this.fn.bind(this);
 
         this.state = {
             dato1: {
@@ -34,11 +33,6 @@ class Ubicacion extends React.Component {
             cuadro: this.props.Datos.cuadro,
             codigo: "0000"
         };
-    }
-
-    fn() {
-        console.log("En ubicaciones ------------------")
-        console.log(this.state);
     }
 
     handleClick(n) {
